@@ -52,3 +52,84 @@ margin-bottom: 16px;
     border-radius: 4px;
     padding: 17px 34px 17px 34px;
 }
+/*about-item*/
+.about{
+margin: 80px 60px 32px 160px;
+
+}
+.about-item{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 16px;
+}
+.about-description{
+    color: #0E0E0E;
+    font-size: 16px;
+    
+}
+/*secltion-icon*/
+.secltion-icon{display: flex;
+justify-content: space-between;
+margin: 32px 160px 32px 160px;}
+
+/*div style*/
+.div-1{
+    background-color: #CCCCCC;
+    border-radius: 16px;
+    padding: 32px;
+    margin-right: 24px;
+}
+
+.div-2{
+border-radius: 16px;
+    background-color: #C6E4D6;
+    padding: 32px;
+    margin-right: 24px;
+}
+.div-3{
+    border-radius: 16px;
+    background-color: #F7EBCF;
+    padding: 32px;
+    margin-right: 24px;
+}
+/*icon style*/
+.icon-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.description{
+    color: #0E0E0E;
+    font-size: 16px;
+}
+/*button-style*/
+.btn-1{
+    background-color: #5490F5;
+    padding: 11px 20px 11px 20px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 150px;
+    border: none;
+    border-radius: 8px;
+    margin: 48px 0px 32px;
+}
+.btn-2{
+    background-color: #09A15C;
+    padding: 11px 20px 11px 20px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 150px;
+    border: none;
+    border-radius: 8px;
+    margin: 48px 0px 32px;
+}
+.btn-3{
+    background-color: #FFC239;
+    padding: 11px 20px 11px 20px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 150px;
+    border: none;
+    border-radius: 8px;
+    margin: 48px 0px 32px;
+}
